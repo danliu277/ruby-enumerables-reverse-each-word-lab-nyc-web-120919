@@ -1,3 +1,3 @@
 def reverse_each_word(string)
-  pp string.split(' ')
+  words = string.split(' ')
 end
